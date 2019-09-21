@@ -8,8 +8,8 @@ def add(word):
 			cur[ch] = {} #starting to create nodes
 		cur = cur[ch]
 	cur['*'] = True
-		
-
+	
+	
 def search(word):
 	cur = head;
 	for ch in word:
@@ -22,9 +22,6 @@ def search(word):
 		return False
 		
 		
-
-
-
 add('hello')
 add('hella')
 add('helicopter')
