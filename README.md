@@ -1,2 +1,2 @@
 # trieDatastructure
-Python implementation of the trie data structure
+Python implementation of the *Trie* data structure
